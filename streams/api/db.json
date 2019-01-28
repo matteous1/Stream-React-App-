@@ -1,0 +1,20 @@
+{
+  "streams": [
+    {
+      "title": "Stream",
+      "description": "description",
+      "id": 1
+    },
+    {
+      "title": "I created this stream",
+      "description": "This was made by me!",
+      "userId": "116133809144137683495",
+      "id": 2
+    },
+    {
+      "title": "Unexpected Behavior (changed)",
+      "description": "Didn't expect that (changed)",
+      "id": 3
+    }
+  ]
+}
